@@ -1,0 +1,23 @@
+[
+  {
+    "fullName": "D Bobur",
+    "username": "bobur",
+    "password": "0320",
+    "id": "ecb0e0eb-16f2-4c5f-bc97-201b4bf235a9",
+    "createDate": "Jul 27, 2024, 10:41:38 AM"
+  },
+  {
+    "fullName": "E Xurshid",
+    "username": "xurshid",
+    "password": "1111",
+    "id": "9adda0a6-5ac9-444e-93fe-77868a8b08ae",
+    "createDate": "Jul 27, 2024, 10:44:04 AM"
+  },
+  {
+    "fullName": "N Sardor",
+    "username": "sardor",
+    "password": "007",
+    "id": "4b386277-d2f2-41f3-bdb1-f6aab373bc69",
+    "createDate": "Jul 27, 2024, 11:05:16 AM"
+  }
+]
